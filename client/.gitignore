@@ -163,3 +163,12 @@ app.*.symbols
 .python-version
 .gclient_previous_custom_vars
 .gclient_previous_sync_commits
+/firebase.json
+/.gitignore
+/client.iml
+/.idea/
+/.dart_tool/
+/ios/
+/linux/
+/macos/
+/windows/

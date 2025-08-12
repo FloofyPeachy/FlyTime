@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="message_channel_name">ATC Notification Channel</string>
+    <string name="message_channel_description">Your subscribed ATCs will notify this.</string>
+    <string name="message_channel_id">message_channel</string>
+</resources>
