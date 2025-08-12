@@ -166,3 +166,5 @@ app.*.symbols
 client/lib/firebase_options.dart
 
 server/vatglasses-data
+
+client/android/app/google-services.json
